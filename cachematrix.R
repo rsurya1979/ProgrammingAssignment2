@@ -1,4 +1,4 @@
-#Description of function:
+# Description of function:
 # Matrix inversion is usually a costly computation. Caching the inverse of a matrix 
 # rather than compute it repeatedly has huge benefit on run time. The    
 # following two functions are used to accomplish the above task.           
